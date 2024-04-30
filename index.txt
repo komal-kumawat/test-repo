@@ -1,0 +1,22 @@
+Hii komal is here
+
+
+Common BASH commands
+pwd : prints current directory
+cd : change directory
+ls : list directory items
+mkdir: make directory
+touch : make file in the  current diectory
+cat : printing file content in terminal
+vi : lets you write things in terminal
+mv: for moving file 
+cp: for copy
+nvm:
+npm :node package manager
+node:
+rm: for deleting file
+cp -r folder(from where you want to copy) folder(where you want to paste) : for copying a folder(here -r indicates recursively)(in case of copying a file remove -r)
+grep:
+wc:
+sed:
+awk:
